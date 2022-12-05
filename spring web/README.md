@@ -1,4 +1,7 @@
 # Spring Web
+## Libraries
+- Spring Web
+
 ## Learning Outcomes
 ### 1. Set up the project
 Use IDE (IntellJ) to set up the project (Suggested)
