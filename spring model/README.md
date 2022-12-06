@@ -55,6 +55,13 @@ public String query(@PathVariable("dummy") String dummy){
 }
 ```
 
+### 5. Test with Postman
+- Postman isn't a good method to test your API but it support you to test the service quickly
+- [Click here to see official documentation of Postman](https://learning.postman.com/docs/getting-started/introduction/)
+
+Example:
+
+
 ## File System
 e.g. 
 - Java
