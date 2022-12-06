@@ -60,7 +60,7 @@ public String query(@PathVariable("dummy") String dummy){
 - [Click here to see official documentation of Postman](https://learning.postman.com/docs/getting-started/introduction/)
 
 Example:
-
+[!alt text](https://github.com/hmlaiac/spring_learn/blob/main/spring%20model/img/img1.png)
 
 ## File System
 e.g. 
