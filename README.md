@@ -4,6 +4,17 @@ Hello, every one! My name is Thomas. I am a programmer who study computer scienc
 - [1. Spring Web](https://github.com/hmlaiac/spring_learn/tree/main/spring%20web)
 - [2. Spring Model](https://github.com/hmlaiac/spring_learn/tree/main/spring%20model)
 - [3. Spring thymeleaf]
+## Part B. Spring Database
 - [4. Spring Database]
+## Part C. Spring Security
+- [1. Basic Authentication]
+- [2. Jwt]
+- [3. OAuth2]
+
+## Part D. Spring Media
+- Image / Video
+- Streaming Video
+
+## Part E. Spring Web Socket
 
 @ All rights are reserved by Lai Hok Ming (Thomas)
