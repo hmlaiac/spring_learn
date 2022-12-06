@@ -16,5 +16,11 @@ Hello, every one! My name is Thomas. I am a programmer who study computer scienc
 - Streaming Video
 
 ## Part E. Spring Web Socket
-
+# Books
+- Spring in Action Sixth Edition
+- Spring Security in Action
+  - this book is highly suggested because it teaches you more useful stuff!
+# References
+- [Official Documentation](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/)
+   - Spring Boot is updating continously. Please check official documents to follow the modification of newsest version
 @ All rights are reserved by Lai Hok Ming (Thomas)
