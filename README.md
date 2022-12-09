@@ -5,7 +5,7 @@ Hello, every one! My name is Thomas. I am a programmer who study computer scienc
 - [2. Spring Model](https://github.com/hmlaiac/spring_learn/tree/main/spring%20model)
 - [3. Spring thymeleaf]
 ## Part B. Spring Database
-- [4. Spring Database]
+- [1. Spring MongoDB]
 ## Part C. Spring Security
 - [1. Basic Authentication]
 - [2. Jwt]
